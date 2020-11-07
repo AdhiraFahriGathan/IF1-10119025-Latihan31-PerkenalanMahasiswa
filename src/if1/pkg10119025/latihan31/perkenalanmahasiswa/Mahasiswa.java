@@ -34,16 +34,16 @@ public class Mahasiswa{
         mahasiswa.nama = "Adhira Fahri Gathan";
         mahasiswa.perkenalanDiri();
         
-        mahasiswa1.nim = "";
-        mahasiswa1.nama = "";
+        mahasiswa1.nim = "10110270";
+        mahasiswa1.nama = "Indra Tiola";
         mahasiswa1.perkenalanDiri();
         
-        mahasiswa2.nim = "";
-        mahasiswa2.nama = "";
+        mahasiswa2.nim = "10110271";
+        mahasiswa2.nama = "Robi Tansil Ganefi";
         mahasiswa2.perkenalanDiri();
         
-        mahasiswa3.nim = "";
-        mahasiswa3.nama = "";
+        mahasiswa3.nim = "10110269";
+        mahasiswa3.nama = "Muhammad Nur Awaludin";
         mahasiswa3.perkenalanDiri();
          
                 
