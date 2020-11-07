@@ -8,6 +8,10 @@ package if1.pkg10119025.latihan31.perkenalanmahasiswa;
 /**
  *
  * @author User
+ * NAMA     : ADHIRA FAHRI GATHAN
+ * KELAS    : PBO
+ * NIM      : 10119025
+ * Deskripsi Program : Program ini berisi tentang Perkenalan Mahasiswa
  */
 public class Mahasiswa{
     public String nim;
